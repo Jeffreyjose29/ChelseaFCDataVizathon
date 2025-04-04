@@ -1,0 +1,31 @@
+Priority,Category,Area,Target,Performance Type,Target set,Review Date,Tracking
+1,Recovery,Sleep,Increase average sleep by 1hr per night,Habit,07/03/2025,07/05/2025,On Track
+2,Recovery,Nutrition,45g of carbohydrate every half time,Habit,07/03/2025,07/05/2025,On Track
+3,Performance,Sprint,>65% in max velocity score,Outcome,07/03/2025,07/05/2025,Achieved
+1,Recovery,Hydration,Drink 3L of water per day,Habit,01/02/2024,01/04/2024,On Track
+2,Performance,Agility,Complete agility drills 3x per week,Habit,15/01/2024,15/03/2024,Not Achieved
+3,Performance,Strength,Increase squat max by 10kg,Outcome,20/03/2024,20/05/2024,Achieved
+1,Recovery,Sleep,Maintain consistent 8hr sleep schedule,Habit,10/04/2024,10/06/2024,On Track
+3,Performance,Endurance,Run 3km in under 12 minutes,Outcome,05/06/2024,05/08/2024,Achieved
+2,Performance,Shooting,Score 10 goals in training per session,Outcome,12/07/2024,12/09/2024,Not Achieved
+1,Recovery,Nutrition,Consume 150g protein daily,Habit,18/08/2024,18/10/2024,On Track
+2,Performance,Sprint,Achieve 90% of max velocity,Outcome,05/09/2024,05/11/2024,Achieved
+3,Recovery,Hydration,Reduce dehydration risk in hot weather,Habit,07/10/2024,07/12/2024,On Track
+1,Performance,Strength,Increase deadlift max by 15kg,Outcome,02/11/2024,02/01/2025,Not Achieved
+2,Recovery,Sleep,Improve REM sleep duration,Habit,09/12/2024,09/02/2025,On Track
+3,Performance,Passing,Achieve 90% pass accuracy in training,Outcome,15/01/2025,15/03/2025,Achieved
+1,Performance,Shooting,Improve left-foot shot accuracy by 15%,Outcome,22/02/2025,22/04/2025,Not Achieved
+2,Recovery,Hydration,Drink electrolyte solution post-training,Habit,28/03/2025,28/05/2025,On Track
+3,Performance,Endurance,Increase VO2 max score by 5%,Outcome,01/04/2025,01/06/2025,Achieved
+1,Recovery,Nutrition,Consume 5 servings of vegetables daily,Habit,12/05/2025,12/07/2025,Not Achieved
+2,Performance,Agility,Reduce shuttle run time by 1 second,Outcome,20/06/2025,20/08/2025,On Track
+3,Performance,Sprint,Maintain >90% sprint intensity,Habit,07/07/2025,07/09/2025,Achieved
+1,Recovery,Sleep,No screens 1hr before bed,Habit,15/08/2025,15/10/2025,On Track
+2,Performance,Strength,Complete 3x weight training sessions per week,Habit,30/09/2025,30/11/2025,Achieved
+3,Performance,Shooting,Increase shot power by 10%,Outcome,10/10/2025,10/12/2025,Not Achieved
+1,Recovery,Nutrition,Improve post-match recovery meals,Habit,25/11/2025,25/01/2026,On Track
+2,Performance,Passing,Achieve 85% pass completion rate in matches,Outcome,05/12/2025,05/02/2026,Achieved
+3,Recovery,Hydration,Monitor hydration levels with urine tests,Habit,12/01/2026,12/03/2026,Not Achieved
+1,Performance,Agility,Improve lateral movement speed by 10%,Outcome,20/02/2026,20/04/2026,Achieved
+2,Recovery,Sleep,Wake up at the same time daily,Habit,01/03/2026,01/05/2026,On Track
+3,Performance,Endurance,Increase high-intensity running distance,Outcome,10/04/2026,10/06/2026,Achieved
